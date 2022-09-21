@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Welcome to 可楽の思忆!
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Just for fun
 
 ### Getting Started
 
